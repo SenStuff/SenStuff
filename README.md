@@ -1,9 +1,9 @@
 - hello there, alex here, creator of sen's stuff
 - this account was created for my projects like
-FNF: VS POD
-FNF: VS POT
-The Outside (on Roblox)
-and something like that
+"FNF: VS POD",
+"FNF: VS POT",
+"The Outside" (on Roblox),
+and something like that.
 - i work in a team created by me called "Pod Team" (For FNF)
 - the current project we're working on is "Friday Night Funkin': VS Pod" (indev)
 - i didnt came up with a name for my team on roblox though :C
